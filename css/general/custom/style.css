@@ -52,6 +52,17 @@ a, a:link, a:visited, a:hover {
 	width: 100%;
 	position: relative;
 }
+.music-intro-name-none {
+	color: #986db2;
+	text-shadow: 1px 1px 0 #ffffff, -1px -1px 0 #ffffff, 1px -1px 0 #ffffff, -1px 1px 0 #ffffff;
+	font-size: 5rem;
+	text-align: center;
+	font-family: "Noto Sans TC", sans-serif;
+	font-weight: 900;
+	height: 300px;
+	margin-top: 15rem;
+	margin-bottom: 5rem;
+}
 .music-intro-name-1 {
 	color: #986db2;
 	text-shadow: 1px 1px 0 #ffffff, -1px -1px 0 #ffffff, 1px -1px 0 #ffffff, -1px 1px 0 #ffffff;
@@ -134,7 +145,7 @@ a, a:link, a:visited, a:hover {
 	text-shadow: 1px 1px 0 #ffffff, -1px -1px 0 #ffffff, 1px -1px 0 #ffffff, -1px 1px 0 #ffffff;
 	font-family: "Noto Sans TC", sans-serif;
 	font-weight: 900;
-	font-size: 1rem;
+	font-size: 1.1rem;
 }
 .music-list-detail {
 	line-height: 2.5rem;
